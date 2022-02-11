@@ -1,5 +1,6 @@
-package com.zenviachallenge.caixaeletronico.service;
+package com.zenviachallenge.caixaeletronico;
 
+import com.zenviachallenge.caixaeletronico.service.SaqueService;
 import org.hamcrest.MatcherAssert;
 import org.junit.Assert;
 import org.junit.Test;
