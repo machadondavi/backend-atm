@@ -28,4 +28,4 @@ Execute a aplicação:
 
 ## Demo
 
-<img src="https://github.com/machadondavi/frontend-zenvia-challenge/tree/master/src/assets/gif/caixa-eletronico.gif">
+<img src="https://github.com/machadondavi/backend-zenvia-challenge/blob/master/src/main/resources/static/image/caixa-eletronico.gif">
