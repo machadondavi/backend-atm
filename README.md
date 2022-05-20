@@ -1,4 +1,4 @@
-# Backend Challenge Zenvia - Projeto
+# Backend ATM - Projeto
 
 O desafio consiste em criar um programa que simule a entrega de notas quando um cliente efetuar um saque em um caixa eletrônico, 
 entregando sempre o menor número de notas. Foi desenvolvido uma RestAPI em SpringBoot, com uma classe de Controller, com o endpoint para comunicação com a aplicação 
